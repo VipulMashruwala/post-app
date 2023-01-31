@@ -1,0 +1,20 @@
+.card-create-post{
+    max-width:500px;
+    margin: 30px auto;
+    padding: 25px;
+    text-align: center;
+}
+
+.create-btn{
+    width: 120px;
+    height: 40px;
+}
+
+@media screen and (max-width: 600px) and  (max-width: 550px) {
+    .card-create-post{
+        width:90%;
+        margin: 30px auto;
+        padding: 25px;
+        text-align: center;
+    }
+}

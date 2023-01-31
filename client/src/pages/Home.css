@@ -1,0 +1,22 @@
+
+
+.card-all-post{
+    max-width: 500px;
+    height: max-content;
+    margin: 26px auto;
+}
+
+.img-all-post{
+    height: 18rem;
+    /* width: 50px; */
+}
+
+
+
+@media screen and (max-width: 600px) and  (max-width: 550px) {
+    .card-all-post{
+        width: 80%;
+        height: max-content;
+        margin: 26px auto;
+    }
+}
